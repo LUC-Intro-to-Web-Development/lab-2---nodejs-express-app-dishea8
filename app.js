@@ -1,3 +1,4 @@
+// NAME: DIANA SHEA
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
@@ -6,10 +7,11 @@ var logger = require('morgan');
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
-var router = express.Router();
-
 var createUserRouter = require('./routes/createuser');
 var addUserRouter = require('./routes/adduser');
+var router = express.Router();
+
+
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
