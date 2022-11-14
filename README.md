@@ -206,6 +206,7 @@ You are going to build a web application that allows end-users to create user pr
 2.  Make sure your master branch is clean and push up your final changes.
 3.  In Sakai, submit the URL to your repository
 
-Date of Completion:
-CPST 342, Fulton
-Diana Shea
+Diana Shea <br>
+CPST 342 <br>
+Fulton<br>
+Date of Completion:<br>
